@@ -22,9 +22,9 @@ Below are a few examples of Jevko formats in different domains, as compared to k
 
 ## Formal specification
 
-While the above formats are still in development, the syntax of Jevko itself is stable and [formally specified](https://github.com/jevko/specifications/blob/master/spec-standard-grammar.md).
+While the above formats are still in development, the syntax of Jevko itself is stable and [formally specified](https://github.com/jevko/specifications/blob/master/spec-standard-grammar.md). Interactive railroad diagrams [are also available](https://jevko.org/diagram.xhtml).
 
-It is ready to be used to define custom formats and, more generally, for all kinds of applications that deal with tree-structured information.
+Jevko is ready to be used to define custom formats and, more generally, for all kinds of applications that deal with tree-structured information.
 
 ## See also
 
@@ -59,3 +59,31 @@ The text markup examples shown here are based on an [example pieces of HTML from
 ## Etymology and pronunciation
 
 The name *Jevko* /ˈdʒef.kɔ/ is derived from Polish *drzewko* /ˈdʐɛf.kɔ/, meaning small tree.
+
+## License
+
+Jevko is intended as a universal syntax, to be used without restriction in any software, for any purpose. It is open and free, along with any syntaxes, formats, and standards based upon it.
+
+For legal purposes, if not specified otherwise, Jevko and related projects are under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+```
+Copyright (c) 2022 Jevko.org
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
