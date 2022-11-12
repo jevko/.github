@@ -55,3 +55,7 @@ The data interchange examples shown here are based on an [example piece of JSON 
 The configuration examples shown here are based on an [example piece of INI from Wikipedia](https://en.m.wikipedia.org/wiki/INI_file#Example).
 
 The text markup examples shown here are based on an [example pieces of HTML from Wikipedia](https://en.wikipedia.org/wiki/HTML#Attributes).
+
+## Etymology and pronunciation
+
+The name *Jevko* /ˈdʒef.kɔ/ is derived from Polish *drzewko* /ˈdʐɛf.kɔ/, meaning small tree.
