@@ -22,7 +22,7 @@ Below are a few examples of Jevko formats in different domains, as compared to k
 
 ## Formal specification
 
-While the above formats are still in development, the syntax of Jevko itself is stable and [formally specified](https://github.com/jevko/specifications/blob/master/spec-standard-grammar.md). Interactive railroad diagrams [are also available](https://jevko.org/diagram.xhtml).
+While the above formats are still in development, the syntax of Jevko itself is stable and [formally specified](https://github.com/jevko/specifications/blob/master/spec-standard-grammar.md). Interactive railroad diagrams [are available](https://jevko.org/diagram.xhtml).
 
 Jevko is ready to be used to define custom formats and, more generally, for all kinds of applications that deal with tree-structured information.
 
