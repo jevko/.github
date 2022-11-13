@@ -58,7 +58,7 @@ The text markup examples shown here are based on an [example pieces of HTML from
 
 ## Etymology and pronunciation
 
-The name *Jevko* /ˈdʒef.kɔ/ is derived from Polish *drzewko* /ˈdʐɛf.kɔ/, meaning small tree.
+The name [*Jevko* /ˈdʒef.kɔ/](https://www.howtopronounce.com/jevko) is derived from Polish [*drzewko* /ˈdʐɛf.kɔ/](https://en.wiktionary.org/wiki/drzewko), meaning small tree.
 
 ## License
 
