@@ -1,6 +1,6 @@
 # Jevko: minimal syntax 
 
-[jevko.github.io](https://jevko.github.io) | [jevko.org](https://jevko.org) | [@jevko Mastodon](https://layer8.space/@jevko)
+[jevko.github.io](https://jevko.github.io) | [jevko.org](https://jevko.org) | <a rel="me" href="https://layer8.space/@jevko">@jevko@layer8.space</a>
 
 **Jevko** is a minimal general-purpose syntax.
 
