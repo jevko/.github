@@ -2,6 +2,8 @@
 
 [`jevko.org`](https://jevko.org) | <a rel="me" href="https://layer8.space/@jevko">`@jevko@layer8.space`</a>
 
+![Jevko compared to other syntaxes for data interchange](https://raw.githubusercontent.com/jevko/jevko/master/data-comparison.png)
+
 <!-- [`jevko.github.io`](https://jevko.github.io) -->
 
 **Jevko** is a minimal general-purpose syntax.
