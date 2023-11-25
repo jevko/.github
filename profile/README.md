@@ -6,9 +6,11 @@
 
 <!-- [`jevko.github.io`](https://jevko.github.io) -->
 
-**Jevko** is a minimal general-purpose syntax.
+**Jevko** is a minimal general-purpose syntax that is uniquely suited to seamless manual reading and editing by humans.
 
-It can be used as a basic building block for simple and portable formats, languages, and notations in a variety of domains, such as data interchange, configuration, or text markup.
+It can serve as a portable machine-readable intermediate representation for all kinds of structured information. Because of its simplicity, it maps easily to any existing syntax.
+
+It can also be used as a basic building block for simple and portable formats, languages, and notations in a variety of domains, such as data interchange, configuration, or text markup.
 
 For more information see [jevko.org](https://jevko.org) as well as the following pages:
 
