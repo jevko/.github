@@ -1,22 +1,24 @@
-# Jevko: minimal syntax 
+# Jevko: simple syntax 
 
 [`jevko.org`](https://jevko.org) | <a rel="me" href="https://layer8.space/@jevko">`@jevko@layer8.space`</a>
 
-![Jevko compared to other syntaxes for data interchange](https://raw.githubusercontent.com/jevko/jevko/master/data-comparison.png)
+[![Jevko alongside XML and JSON](jevkolike.png)](https://jevko.org)
 
 <!-- [`jevko.github.io`](https://jevko.github.io) -->
 
-**Jevko** is a minimal general-purpose syntax that is uniquely suited to seamless manual reading and editing by humans.
+**Jevko** is a versatile minimal syntax for encoding tree-structured information as human-friendly text.
 
-It can serve as a portable machine-readable intermediate representation for all kinds of structured information. Because of its simplicity, it maps easily to any existing syntax.
+Jevko is designed to integrate with and complement familiar formats and programming languages.
 
-It can also be used as a basic building block for simple and portable formats, languages, and notations in a variety of domains, such as data interchange, configuration, or text markup.
+It can be used as a building block for simple formats, languages, and notations across a variety of domains.
 
-For more information see [jevko.org](https://jevko.org) as well as the following pages:
+For example, [**JDAML**](https://jevko.github.io/jdaml/) is an XML-like format built on Jevko that works equally well for data interchange, configuration, *and* text markup.
 
-* [jevko.github.io](https://jevko.github.io)
+[![JDAML alongside JSON and HTML](jdaml.png)](https://jevko.org/#jdaml)
 
-* [resources.md](https://github.com/jevko/jevko/blob/master/resources.md)
+For more information see [jevko.org](https://jevko.org) or [jevko.github.io](https://jevko.github.io).
+
+<!-- * [resources.md](https://github.com/jevko/jevko/blob/master/resources.md)
 
 * [parsers.md](https://github.com/jevko/jevko/blob/master/parsers.md)
 
@@ -26,7 +28,7 @@ For more information see [jevko.org](https://jevko.org) as well as the following
 
 * [tools.md](https://github.com/jevko/jevko/blob/master/tools.md)
 
-* [various.md](https://github.com/jevko/jevko/blob/master/various.md)
+* [various.md](https://github.com/jevko/jevko/blob/master/various.md) -->
 
 ## Etymology and pronunciation
 
@@ -39,7 +41,7 @@ Jevko is intended as a universal syntax, to be used without restriction in any s
 For legal purposes, if not specified otherwise, Jevko and related projects are under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ```
-Copyright (c) 2021-2023 Jevko.org
+Copyright (c) 2021-2024 Jevko.org
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
