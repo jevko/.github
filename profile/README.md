@@ -2,7 +2,7 @@
 
 [`jevko.org`](https://jevko.org) | <a rel="me" href="https://layer8.space/@jevko">`@jevko@layer8.space`</a>
 
-[![Jevko alongside XML and JSON](jevkolike.png)](https://jevko.org)
+[![Jevko alongside XML and JSON](https://raw.githubusercontent.com/jevko/.github/main/profile/jevkolike.png)](https://jevko.org)
 
 <!-- [`jevko.github.io`](https://jevko.github.io) -->
 
@@ -14,7 +14,7 @@ It can be used as a building block for simple formats, languages, and notations 
 
 For example, [**JDAML**](https://jevko.github.io/jdaml/) is an XML-like format built on Jevko that works equally well for data interchange, configuration, *and* text markup.
 
-[![JDAML alongside JSON and HTML](jdaml.png)](https://jevko.org/#jdaml)
+[![JDAML alongside JSON and HTML](https://raw.githubusercontent.com/jevko/.github/main/profile/jdaml.png)](https://jevko.org/#jdaml)
 
 For more information see [jevko.org](https://jevko.org) or [jevko.github.io](https://jevko.github.io).
 
