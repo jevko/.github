@@ -2,19 +2,27 @@
 
 [`jevko.org`](https://jevko.org) | <a rel="me" href="https://layer8.space/@jevko">`@jevko@layer8.space`</a>
 
-[![Jevko alongside XML and JSON](https://raw.githubusercontent.com/jevko/.github/main/profile/jevkolike.png)](https://jevko.org)
-
 <!-- [`jevko.github.io`](https://jevko.github.io) -->
 
 **Jevko** is a versatile minimal syntax for encoding tree-structured information as human-friendly text.
 
-Jevko is designed to integrate with and complement familiar formats and programming languages.
-
 It can be used as a building block for simple formats, languages, and notations across a variety of domains.
 
-For example, [**JDAML**](https://jevko.github.io/jdaml/) is an XML-like format built on Jevko that works equally well for data interchange, configuration, *and* text markup.
+[Jevko Data And Markup Language (**JDAML**)](https://jevko.github.io/jdaml/) is an experimental XML-like format built on Jevko that works equally well for data interchange, configuration, *and* text markup. 
 
-[![JDAML alongside JSON and HTML](https://raw.githubusercontent.com/jevko/.github/main/profile/jdaml.png)](https://jevko.org/#jdaml)
+# For users
+
+Check out [JDAML](https://jevko.org/#jdaml) you are interested in a ready-made minimal and simple unified format that can be a complement or an alternative to formats such as HTML, XML, JSON, YAML, TOML, etc.
+
+[![JDAML alongside JSON and HTML](https://raw.githubusercontent.com/jevko/.github/main/profile/jdaml.gif)](https://jevko.org/#jdaml)
+
+# For hackers
+
+Check out [plain Jevko](https://jevko.org/#plain-jevko) if you are a hacker, minimalist, language or format designer, or are looking for an extremely minimal and simple text-based representation for trees.
+
+[![Jevko alongside XML, S-expression, and JSON](https://raw.githubusercontent.com/jevko/.github/main/profile/jevko.gif)](https://jevko.org/#plain-jevko)
+
+***
 
 For more information see [jevko.org](https://jevko.org) or [jevko.github.io](https://jevko.github.io).
 
