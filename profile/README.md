@@ -1,6 +1,6 @@
 # Jevko: simple syntax 
 
-[`jevko.org`](https://jevko.org) (mirror at [`jevko.github.io`](https://jevko.github.io)) | <a rel="me" href="https://layer8.space/@jevko">`@jevko@layer8.space`</a>
+[`jevko.org`](https://jevko.org) | <a rel="me" href="https://layer8.space/@jevko">`@jevko@layer8.space`</a>
 
 **Jevko** is a versatile minimal syntax for encoding tree-structured information as human-friendly text.
 
