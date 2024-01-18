@@ -2,17 +2,9 @@
 
 [`jevko.org`](https://jevko.org) | <a rel="me" href="https://layer8.space/@jevko">`@jevko@layer8.space`</a>
 
-**Jevko** is a versatile minimal syntax for encoding tree-structured information as human-friendly text.
+**Jevko** ([/ˈd͡ʒef.kəʊ/](#etymology-and-pronunciation)) is a versatile minimal syntax for encoding tree-structured information as human-friendly text.
 
 It can be used as a building block for simple formats, languages, and notations across a variety of domains.
-
-[Jevko Data And Markup Language (**JDAML**)](https://jevko.github.io/jdaml/) is an experimental XML-like format built on Jevko that works equally well for data interchange, configuration, *and* text markup. 
-
-## For users
-
-Check out [JDAML](https://jevko.org/#jdaml) you are interested in a ready-made minimal and simple unified format that can be a complement or an alternative to formats such as HTML, XML, JSON, YAML, TOML, etc.
-
-[![JDAML alongside JSON and HTML](https://raw.githubusercontent.com/jevko/.github/main/profile/jdaml.gif)](https://jevko.org/#jdaml)
 
 ## For hackers
 
@@ -20,9 +12,27 @@ Check out [plain Jevko](https://jevko.org/#plain-jevko) if you are a hacker, min
 
 [![Jevko alongside XML, S-expression, and JSON](https://raw.githubusercontent.com/jevko/.github/main/profile/jevko.gif)](https://jevko.org/#plain-jevko)
 
-***
+## For users
 
-For more information see [jevko.org](https://jevko.org) or [jevko.github.io](https://jevko.github.io).
+[Jevko Data And Markup Language (**JDAML**)](https://jevko.org/#jdaml) is an **experimental** XML-like format built on Jevko that works equally well for data interchange, configuration, *and* text markup. 
+
+Check out JDAML if you are interested in a ready-made minimal and simple unified format that can be a complement or an alternative to formats and syntaxes such as HTML, XML, JSX, JSON, YAML, TOML, etc.
+
+[![JDAML alongside JSON and HTML](https://raw.githubusercontent.com/jevko/.github/main/profile/jdaml.gif)](https://jevko.org/#jdaml)
+
+## 🌲 Support the creator 🌲
+
+🌴🌳🏕️🏞️🌾🍄🌽🥔🌵🌱🪴🌹🌻☀️
+
+> I have been developing Jevko and related projects alone over the course of many years, completely independently, without financial support, investing countless amounts of time and effort.
+>
+> I deeply believe that it is a useful tool that has been missing in almost every programmer's standard toolkit. I think it can become ubiquitous and simplify the lives of not just programmers or hackers, but also regular users of software.
+>
+> If you appreciate what I create, [consider supporting me on ko-fi](supportme.html).
+>
+> &mdash; Darius J Chuck
+
+🌿🍀🍃🍁⛰️🦥🎋🍂🥬☘️🌸🪷🤝
 
 <!-- * [resources.md](https://github.com/jevko/jevko/blob/master/resources.md)
 
@@ -67,3 +77,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+***
+
+For more information see [jevko.org](https://jevko.org) or [jevko.github.io](https://jevko.github.io).
