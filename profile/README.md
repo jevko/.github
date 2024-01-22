@@ -20,19 +20,19 @@ Check out JDAML if you are interested in a ready-made minimal and simple unified
 
 [![JDAML alongside JSON and HTML](https://raw.githubusercontent.com/jevko/.github/main/profile/jdaml.gif)](https://jevko.org/#jdaml)
 
-## 🌲 Support Jevko 🌲
+![decoration](jevkos.png)
 
-🌴🌳🏕️🏞️🌾🍄🌽🥔🌵🌱🪴🌹🌻☀️
+## Support Jevko
 
-> I have been developing Jevko and related projects alone over the course of many years, completely independently, without financial support, investing countless amounts of time and effort.
+> I want everybody to be able to enjoy my creations, so I make them free and open-source.
 >
-> I deeply believe that it is a useful tool that has been missing in almost every programmer's standard toolkit. I think it can become ubiquitous and simplify the lives of not just programmers or hackers, but also regular users of software.
+> I can only continue doing this work thanks to the kindness of supporters.
 >
 > If you appreciate what I create, [consider supporting me](https://xtao.org/support.html).
 >
 > &mdash; Darius J Chuck
 
-🌿🍀🍃🍁⛰️🦥🎋🍂🥬☘️🌸🪷🤝
+![decoration](jevkos.png)
 
 <!-- * [resources.md](https://github.com/jevko/jevko/blob/master/resources.md)
 
