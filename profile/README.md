@@ -20,7 +20,7 @@ Check out JDAML if you are interested in a ready-made minimal and simple unified
 
 [![JDAML alongside JSON and HTML](https://raw.githubusercontent.com/jevko/.github/main/profile/jdaml.gif)](https://jevko.org/#jdaml)
 
-![decoration](jevkos.png)
+![decoration](https://raw.githubusercontent.com/jevko/.github/main/profile/jevkos.png)
 
 ## Support Jevko
 
@@ -32,7 +32,7 @@ Check out JDAML if you are interested in a ready-made minimal and simple unified
 >
 > &mdash; Darius J Chuck
 
-![decoration](jevkos.png)
+![decoration](https://raw.githubusercontent.com/jevko/.github/main/profile/jevkos.png)
 
 <!-- * [resources.md](https://github.com/jevko/jevko/blob/master/resources.md)
 
