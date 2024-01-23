@@ -22,13 +22,13 @@ Check out JDAML if you are interested in a ready-made minimal and simple unified
 
 ![decoration](https://raw.githubusercontent.com/jevko/.github/main/profile/jevkos.png)
 
-## Support Jevko
+## Become a supporter
 
-> I want everybody to be able to enjoy my creations, so I make them free and open-source.
+> My goal is to make a living as an independent creator.
 >
-> I can only continue doing this work thanks to the kindness of supporters.
+> If you appreciate my work, [consider supporting me](https://xtao.org/support.html).
 >
-> If you appreciate what I create, [consider supporting me](https://xtao.org/support.html).
+> Thank you!
 >
 > &mdash; Darius J Chuck
 
