@@ -24,13 +24,17 @@ Check out JDAML if you are interested in a ready-made minimal and simple unified
 
 ## Become a supporter
 
-> My goal is to make a living as an independent creator.
->
-> If you appreciate my work, [consider supporting me](https://xtao.org/support.html).
->
-> Thank you!
->
-> &mdash; Darius J Chuck
+I prefer to share my creations for free. However living and creating without money is not possible for me. So I ask companies and people, who want and can, for support. Every symbolic cup of coffee counts!
+
+<div>
+  <a href='https://ko-fi.com/djedr' target='_blank'><img width='240' style='border:0px;width:240px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  &nbsp;
+  <a href="https://buycoffee.to/jevko" target="_blank"><img width="240"  src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 240px" alt="Postaw mi kawę na buycoffee.to"></a>
+</div>
+
+Thank you!
+
+&mdash; <a href="https://djedr.github.io">Darius J Chuck</a>
 
 ![decoration](https://raw.githubusercontent.com/jevko/.github/main/profile/jevkos.png)
 
