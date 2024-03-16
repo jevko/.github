@@ -29,14 +29,18 @@ You can support Jevko in various ways:
 * create an implementation in your favorite programming language,
 * use existing implementations,
 * tell others about Jevko,
-* support the creator with a virtual coffee (see below),
+* donate or buy a virtual coffee (see below),
 * provide patronage -- write to darius.j.chuck on gmail.
 
-### Buy a coffee
+### Donate
 
 If you think that Jevko is a valuable project and you are willing and able to support it, you can do so by clicking below:
 
 <div>
+  <a href="https://donate.stripe.com/00gdUicLv4UueeQcMM" target="_blank"><img src="https://raw.githubusercontent.com/djedr/djedr.github.io/master/gfx/donate-but.svg" style="height: 64px" alt="Donate directly via Stripe" title="Donate directly via Stripe"></a>
+  &nbsp;
+  or
+  &nbsp;
   <a href='https://ko-fi.com/djedr' target='_blank'><img width='240' style='border:0px;width:240px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' /></a>
   &nbsp;
   <a href="https://buycoffee.to/jevko" target="_blank"><img width="240"  src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 240px" alt="Postaw mi kawę na buycoffee.to"></a>
