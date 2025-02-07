@@ -81,7 +81,7 @@ The content of this site and official Jevko-related materials is licensed under 
 In short, these licenses allow you to freely use the materials, also for commercial purposes, provided that you include information about the author and the license. The author gives no guarantee and is not responsible for the results.
 
 ```
-Copyright (c) 2021-2024 Jevko.org
+Copyright (c) 2021-2025 Jevko.org
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
